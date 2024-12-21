@@ -12,4 +12,4 @@ Install it in the root folder with the game and then put it in addons
 * The admin panel was tested only in SANDBOX mode, not for other modes.!!
 ## Developer Team/Делевопер Теам
 * Kaspersky (r_kaspersky) - The main developer of the admin menu
-![Alt Image1]([путь_к_изображению](https://github.com/r-kaspersky/SB.am/blob/main/image.png))
+* ![Alt Image1]([путь_к_изображению](https://github.com/r-kaspersky/SB.am/blob/main/image.png))
