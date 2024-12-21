@@ -12,8 +12,7 @@
 
 1. **НЕ** создавайте публичный Issue об этом
 2. Отправьте описание уязвимости через:
-   - Discord: r_kaspersky
-   - GitHub Security Advisory (кнопка "Report a vulnerability" в разделе Security)
+   - GitHub Security Advisory
 
 Я постараюсь ответить.
 
