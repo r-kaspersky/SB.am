@@ -6,7 +6,7 @@ Install it in the root folder with the game and then put it in addons
 ```D:\test\garrysmod\addons (Approximately For SERVER)```
 **Please use the database (DB Browser)**
 ## What's going on in menyukha?
-Open via ! / . (!menu)
-or bring the sb menu to the console.
-There are commands sb ban, sb kick, sb addgroup and others
+* Open via ! / . (!menu)
+* or bring the sb menu to the console.
+* There are commands sb ban, sb kick, sb addgroup and others
 **The admin panel was tested only in SANDBOX mode, not for other modes.**
